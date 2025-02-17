@@ -20,8 +20,15 @@
 <div>3 short chess games to demonstrate selection between games.</div>
 <div id="b1" style="width: 360px"></div>
 <script>
-var pgn = ['[White "Me"][Black "You"] 1. e4 e5 2. Nf3 Nc6  3.Bc4 Bc5 4.b4 Bxb4\n\n[White "You"][Black "Magnus"] d4 Nf6 c4 e6 Nf3 Be7 g3\n\n[White "Magnus"][Black "Me"] e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 a3 '].join(" ");
-        pgnv = PGNV.pgnView("b1", {pgn: pgn, manyGames: true});
+<!--var pgn = ['[White "Me"][Black "You"] 1. e4 e5 2. Nf3 Nc6  3.Bc4 Bc5 4.b4 Bxb4\n\n[White "You"][Black "Magnus"] d4 Nf6 c4 e6 Nf3 Be7 g3\n\n[White "Magnus"][Black "Me"] e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 a3 '].join(" ");-->
+fetch("complete_games.pgn")
+  .then((res) => res.text())
+  .then((text) => {
+    // do something with "text"
+	        pgnv = PGNV.pgnView("b1", {pgn: text, manyGames: true});
+   })
+  .catch((e) => console.error(e));
+
 </script>
 <script>prettyPrint();</script>
 </body>
