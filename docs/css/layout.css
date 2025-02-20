@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif; /* Use a clean, modern font */
+}
+.full-screen {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ffffff; /* White background for the content area */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for a touch of elegance */
+}
+h1, h2, p {
+    margin: 0;
+    padding: 10px;
+}
+h1 {
+    font-size: 2em; /* Responsive font size */
+    color: #333333; /* Darker text color for contrast */
+}
+h2 {
+    font-size: 1.5em; /* Responsive font size */
+    color: #666666; /* Lighter text color for subheadings */
+}
+p {
+    font-size: 1em; /* Standard font size for paragraphs */
+    color: #444444; /* Medium text color for paragraphs */
+}
+#b1 {
+    max-width: 800px !important;
+    width: 500em !important;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.5em; /* Adjust font size for smaller screens */
+    }
+    h2 {
+        font-size: 1.2em; /* Adjust font size for smaller screens */
+    }
+    p {
+        font-size: 0.9em; /* Adjust font size for smaller screens */
+    }
+    .full-screen {
+        padding: 10px; /* Add padding for smaller screens */
+    }
+    #b1{
+        width: 100% !important;
+        max-width: 400px !important;
+    }
+
+}
