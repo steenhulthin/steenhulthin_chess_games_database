@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Complete Chess Games of Steen Hulthin Rasmussen</title>
     <link rel="stylesheet" href="./css/prettify.css" />
@@ -26,10 +25,15 @@
         fetch("complete_games.pgn")
         .then((res) => res.text())
         .then((text) => {
-            if (window.innerWidth < 400) {
-              board_width = window.innerWidth - 20;
-             } else if (window.innerWidth < 700) {
-              board_width = window.innerWidth - 30;
+          var height = window.innerHeight;
+          var width = window.innerWidth;
+
+          // Find the smallest dimension
+          var smallestDimension = Math.min(height, width);
+            if (smallestDimension < 400) {
+              board_width = smallestDimension - 20;
+             } else if (smallestDimension < 700) {
+              board_width = smallestDimension - 30;
              } else {
               board_width = 600;
              }
