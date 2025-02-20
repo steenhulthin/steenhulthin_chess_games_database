@@ -5761,3 +5761,119 @@ Nbd4 Nxd3 21. cxd3 Qa4 22. Nc3 Qd7 23. Nb3 d4 24. Na4 Qxa4 0-1
 44. Kh5 Bg6+ 45. Kh6 Bd3 46. f5 exf5 47. gxf5 Bh4 48. Kxh7 Bf2 49. Nce2 
 Be3 50. Kg7 Bc4 51. Kf8 1-0
 
+[Event "Hold"]
+[Site "Brønshøj"]
+[Date "2021.12.09"]
+[Round "3"]
+[White "Finn Bonnez"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1/2-1/2"]
+[WhiteRating "1905"]
+[BlackRating "1960"]
+[ECO "A46g"]
+[EventDate "2021.12.09"]
+
+1. d4 d6 2. Nf3 Nf6 3. e3 Bf5 4. c3 c6 5. Bc4 Qc7 6. Nbd2 Nbd7 7. e4 Bg6 
+8. Qe2 e5 9. Nh4 Be7 10. Nxg6 hxg6 11. Nf3 Nh7 12. Bb3 Rf8 13. Bd2 O-O-O 
+14. O-O-O Kb8 15. g4 Nb6 16. Kb1 exd4 17. Nxd4 Bf6 18. f3 Rfe8 19. Qg2 g5 
+20. h4 a6 21. hxg5 Nxg5 22. Nf5 g6 23. Ng3 d5 24. exd5 Nxd5 25. Ne4 Nf4 
+26. Bxf4 Qxf4 27. Nxf6 Qxf6 28. Qg3+ Ka8 29. Rxd8+ Rxd8 30. Rd1 Ne6 31. 
+Rxd8+ Qxd8 32. Qf2 Ng5 1/2-1/2
+
+[Event "Hold"]
+[Site "Frederiksberg"]
+[Date "2022.01.13"]
+[Round "4"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Allan Astrup Jensen"]
+[Result "0-1"]
+[WhiteRating "1960"]
+[BlackRating "2034"]
+[ECO "D00n"]
+[EventDate "2022.01.13"]
+
+1. d4 d5 2. Nc3 Bf5 3. Bf4 c6 4. e3 e6 5. g4 Bg6 6. h4 h5 7. g5 Bb4 8. Bd3
+Ne7 9. Ne2 Nd7 10. a3 Ba5 11. f3 b5 12. b4 Bc7 13. a4 e5 14. dxe5 Nxe5 15.
+ Bxe5 Bxe5 16. axb5 Qb6 17. Kf2 d4 18. exd4 Bxd4+ 19. Kg2 Rd8 20. Ra6 Qb8 
+21. bxc6 O-O 22. Nb5 Bb6 23. c7 Bxc7 24. Rxa7 Bxd3 25. Rxc7 Bxb5 0-1
+
+[Event "Hold"]
+[Site "Brønshøj"]
+[Date "2022.02.03"]
+[Round "5"]
+[White "Allan Astrup Jensen"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "0-1"]
+[WhiteRating "2034"]
+[BlackRating "1960"]
+[ECO "B07n"]
+[EventDate "2022.02.03"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. a4 Qa5 5. Bd2 Qb6 6. e5 dxe5 7. a5 Qxd4 8.
+ Nf3 Qd6 9. Bc4 Be6 10. Qe2 Bxc4 11. Qxc4 e6 12. Bg5 Nbd7 13. O-O Qb4 14. 
+Ra4 Qxc4 15. Rxc4 Nd5 16. a6 b6 17. Rxc6 Nxc3 18. Rxc3 f6 19. Be3 Bc5 20. 
+Rd1 Ke7 21. Nd2 Rac8 22. Nc4 Rhd8 23. Rcd3 Bxe3 24. Nxe3 Nc5 25. Rxd8 Rxd8
+26. Ra1 Rd2 27. Kf1 Kd8 28. Ke1 Rd4 29. b3 Kc7 30. Ke2 h5 31. f3 Rh4 32. 
+h3 e4 33. fxe4 Rxe4 34. Kf3 Rd4 35. Ke2 b5 36. c4 Kb6 37. b4 Nxa6 38. c5+ 
+Kb7 39. Nc2 Rc4 40. c6+ Kb6 41. Kd3 Rxc6 0-1
+
+[Event "Hold"]
+[Site "Brønshøj"]
+[Date "2021.02.11"]
+[Round "1"]
+[White "Claus Pakmor"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1/2-1/2"]
+[WhiteRating "1900"]
+[BlackRating "1960"]
+[ECO "B07n"]
+[EventDate "2021.02.11"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. h3 Qa5 5. Bd3 Nbd7 6. Nf3 e5 7. O-O Be7 8.
+ a3 O-O 9. b4 Qc7 10. Bb2 Re8 11. Ne2 Bf8 12. dxe5 dxe5 13. c4 c5 14. b5 
+Bd6 15. Qd2 1/2-1/2
+
+[Event "Hold"]
+[Site "Ishøj"]
+[Date "2022.02.28"]
+[Round "6"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Kasper Foslund"]
+[Result "1-0"]
+[WhiteRating "1980"]
+[BlackRating "1960"]
+[ECO "D00o"]
+[EventDate "2022.02.28"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 c6 4. e3 Bf5 5. Be2 e6 6. a3 Ne4 7. Nxe4 dxe4 
+8. Qd2 b5 9. c4 bxc4 10. Bxc4 Nd7 11. Ne2 Nb6 12. Rc1 Nxc4 13. Rxc4 Rc8 
+14. Qc3 Qb6 15. O-O f6 16. Rc1 Kd7 17. Qc2 g5 18. Bg3 h5 19. h4 Bd6 20. 
+Bxd6 Kxd6 21. hxg5 fxg5 22. Rb4 Qc7 23. Qc5+ Kd7 24. Ra4 Ra8 25. Ra6 Rhc8 
+26. Ng3 Qd6 27. Rxa7+ Rxa7 28. Qxa7+ Rc7 29. Qc5 Rb7 30. Nxf5 Qxc5 31. 
+Rxc5 exf5 32. Rxf5 Rxb2 33. Rxg5 Rb1+ 34. Kh2 h4 35. Rg4 Rb2 36. Rxh4 Rxf2
+37. Rxe4 Ra2 38. Re5 Rxa3 39. g4 Kd6 40. Kg3 c5 41. Rxc5 Rxe3+ 42. Kf4 Rd3
+43. Ke4 Rd1 44. Re5 Re1+ 45. Kf5 Rf1+ 46. Kg6 Rf4 47. g5 Rxd4 48. Re2 Rf4 
+49. Kg7 Rf3 50. g6 Rf4 51. Kg8 Kd7 52. g7 Rh4 53. Kf7 Rf4+ 54. Kg6 Rg4+ 
+55. Kf6 Rg3 56. Re5 Rf3+ 57. Kg6 1-0
+
+[Event "Hold"]
+[Site "Brønshøj"]
+[Date "2021.02.12"]
+[Round "3"]
+[White "Søren Bull Andersen"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1/2-1/2"]
+[WhiteRating "1960"]
+[BlackRating "2068"]
+[ECO "A53"]
+[EventDate "2021.02.12"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 c6 4. e4 Qc7 5. f4 e5 6. fxe5 dxe5 7. Bg5 exd4 
+8. Bxf6 dxc3 9. Bxc3 Qf4 10. Qf3 Qh6 11. Bd3 Na6 12. a3 Be7 13. Ne2 O-O 
+14. b4 Qh4+ 15. g3 Bg4 16. Qf2 Qh6 17. O-O Nc7 18. Nd4 Rad8 19. Be2 Bg5 
+20. Nc2 Bh3 21. Rfd1 b6 22. Qf3 Ne6 23. e5 c5 24. Rd6 Rxd6 25. exd6 Nd4 
+26. Bxd4 cxd4 27. Rd1 Qxd6 28. Qh5 Qh6 29. Qxh6 Bxh6 30. Kf2 Re8 31. Rxd4 
+Bf5 32. Bd3 Bc8 33. c5 bxc5 34. bxc5 a6 35. c6 g6 36. Bc4 Bf8 37. Rf4 Bc5+
+38. Kg2 Bf5 39. Bxa6 Bxc2 40. c7 Bf5 41. Rxf5 gxf5 42. c8=Q Rxc8 43. Bxc8 
+Bxa3 44. Bxf5 Kg7 1/2-1/2
+
