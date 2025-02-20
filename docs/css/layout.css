@@ -1,12 +1,9 @@
 html, body {
-    height: 100%;
     margin: 0;
     padding: 0;
-    overflow: hidden;
     font-family: Arial, sans-serif; /* Use a clean, modern font */
 }
 .full-screen {
-    height: 100%;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -31,10 +28,6 @@ p {
     font-size: 1em; /* Standard font size for paragraphs */
     color: #444444; /* Medium text color for paragraphs */
 }
-#b1 {
-    max-width: 800px !important;
-    width: 500em !important;
-}
 
 /* Media query for smaller screens */
 @media (max-width: 600px) {
@@ -50,9 +43,4 @@ p {
     .full-screen {
         padding: 10px; /* Add padding for smaller screens */
     }
-    #b1{
-        width: 100% !important;
-        max-width: 400px !important;
-    }
-
 }

@@ -19,15 +19,21 @@
         <h1>Complete Chess Games of Steen Hulthin Rasmussen</h1>
         <h2>Well, close to complete...</h2>
         <p>Select game:</p>
-        <div id="b1"></div>
+        <div id="board"></div>
       </div>
     </div>
     <script>
         fetch("complete_games.pgn")
         .then((res) => res.text())
         .then((text) => {
-            // do something with "text"
-            pgnv = PGNV.pgnView("b1", {pgn: text, manyGames: true});
+            if (window.innerWidth < 400) {
+              board_width = window.innerWidth - 20;
+             } else if (window.innerWidth < 700) {
+              board_width = window.innerWidth - 30;
+             } else {
+              board_width = 600;
+             }
+            pgnv = PGNV.pgnView("board", {pgn: text, manyGames: true, width: board_width+'px', boardSize: board_width+'px'});
         })
         .catch((e) => console.error(e));
     </script>
