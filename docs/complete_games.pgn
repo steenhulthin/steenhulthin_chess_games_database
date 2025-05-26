@@ -1,4 +1,222 @@
-﻿[Event "Hold"]
+﻿[Event "Løvspring 2025"]
+[Site "Holbæk"]
+[Date "2025.05.25"]
+[Round "4"]
+[White "Erik Løveid"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "0-1"]
+[WhiteRating "1991"]
+[BlackRating "1955"]
+[ECO "D00c"]
+[EventDate "2025.05.25"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 e6 5. Nf3 b6 6. Nbd2 Be7 7. Bd3 Bb7 8. 
+Ne5 a6 9. O-O Nc6 10. Qe2 b5 11. Bg3 Nxe5 12. dxe5 Nd7 13. f4 f5 14. Rad1 
+Qb6 15. Bb1 O-O-O 16. Nf3 h6 17. Bf2 g5 18. a3 Rdg8 19. b4 g4 20. Nd2 h5 
+21. Nb3 h4 22. Be1 h3 23. g3 Kb8 24. Na5 Rc8 25. Bf2 Rhd8 26. Rd2 Qc7 27. 
+Ba2 Nb6 28. e4 Nc4 29. Rdd1 Nxa5 30. bxa5 Qxa5 31. exf5 exf5 32. Bb1 d4 
+33. cxd4 Bf3 34. Qe1 Qxa3 35. Bxf5 Rc6 36. Rd3 Qb4 37. Qa1 Rxd4 38. Bxd4 
+cxd4 39. Qb1 Be2 40. Rb3 Qc4 41. Bd3 Bxd3 42. Qxd3 Qd5 43. Rb2 Rc3 44. Qd2
+Bc5 45. Rf2 d3 0-1
+
+[Event "Løvspring 2025"]
+[Site "Holbæk"]
+[Date "2025.05.25"]
+[Round "5"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Anton Helsted Moe"]
+[Result "1/2-1/2"]
+[WhiteRating "2024"]
+[BlackRating "1955"]
+[ECO "A40a"]
+[EventDate "2025.05.25"]
+
+1. d4 1/2-1/2
+
+[Event "Løvspring 2025"]
+[Site "Holbæk"]
+[Date "2025.05.24"]
+[Round "3"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Nienke van den Brink"]
+[Result "1/2-1/2"]
+[WhiteRating "1955"]
+[BlackRating "1973"]
+[ECO "A45h"]
+[EventDate "2025.05.24"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. e4 d6 5. Nc3 O-O 6. Nge2 e5 7. O-O Nc6 8.
+ d5 Ne7 9. h3 Ne8 10. Be3 f5 11. f3 Nf6 12. Qd2 Bd7 13. Rad1 Qc8 14. Kh2 
+Rf7 15. a4 a6 16. a5 Qf8 17. Nb1 h6 18. Qb4 Qc8 19. c4 g5 20. c5 f4 21. 
+cxd6 cxd6 22. Rc1 Qb8 23. Bb6 Bb5 24. Rfe1 Nc8 25. Na3 Nxb6 26. Nxb5 Nbxd5
+27. exd5 axb5 28. Qxb5 Qd8 29. b4 Rc8 30. Qb6 Nxd5 31. Rxc8 Qxc8 32. Qxd6 
+Ne3 33. Rc1 Qd7 34. Qxd7 Rxd7 35. Kg1 Rd2 36. Bf1 Rb2 37. Nc3 Nxf1 38. 
+Kxf1 Rxb4 39. Ne4 Rb5 40. Rc8+ Bf8 41. Rc7 Bg7 42. Nd6 Rxa5 43. Rxb7 Ra6 
+44. Nf5 Bf8 45. g4 Re6 46. h4 Ra6 1/2-1/2
+
+[Event "Løvspring 2025"]
+[Site "Holbæk"]
+[Date "2025.05.24"]
+[Round "2"]
+[White "Søren Jensen"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1-0"]
+[WhiteRating "1996"]
+[BlackRating "1955"]
+[ECO "C00k"]
+[EventDate "2025.05.24"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. d4 Nc6 6. a3 Qa5 7. Bd2 Nh6 8. 
+Bd3 Nf5 9. c3 bxc3 10. Bxc3 Qd8 11. O-O Be7 12. Bc2 O-O 13. Qd3 g6 14. Re1
+Bd7 15. Nbd2 Na5 16. Nf1 Nc4 17. a4 b5 18. axb5 Bxb5 19. Qd1 a5 20. Qc1 
+Kg7 21. Bxf5 exf5 22. Ne3 a4 23. Nxc4 Bxc4 24. Qf4 h6 25. h4 Bd3 26. g3 g5
+27. Qe3 Bc4 28. Bd2 g4 29. Qxh6+ Kg8 30. Ng5 Bxg5 31. Bxg5 Ra6 32. Bf6 
+Rxf6 33. exf6 Qb6 34. Qg7# 1-0
+
+[Event "Løvspring 2025"]
+[Site "Holbæk"]
+[Date "2025.05.23"]
+[Round "1"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Mark Kirkebække"]
+[Result "0-1"]
+[WhiteRating "1955"]
+[BlackRating "1964"]
+[ECO "D35l"]
+[EventDate "2025.05.23"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 c6 5. Nf3 Nf6 6. Bg5 Bd6 7. e3 Qb6 
+8. Bxf6 Qxb2 9. Bxg7 Qxc3+ 10. Nd2 Rg8 11. Bf6 Rg6 12. Bh4 Bf5 13. a4 Ba3 
+14. Rxa3 Qxa3 15. Be2 Qb2 16. O-O Bc2 17. Qa1 Qxa1 18. Rxa1 Bf5 19. Ra2 
+Nd7 20. Rb2 b6 21. Bg3 a6 22. Nf3 Rg8 23. Ne5 Nxe5 24. Bxe5 b5 25. a5 Kd7 
+26. f3 Rac8 27. Kf2 c5 28. g4 Bg6 29. dxc5 Rxc5 30. f4 Be4 31. Bf3 Rc4 32.
+ Bd4 Rgc8 33. g5 Rc2+ 34. Kg3 Bxf3 35. Kxf3 Rxb2 36. Bxb2 Rc2 37. Bd4 Rxh2
+38. Kg3 Rd2 39. Kg4 Rxd4 40. exd4 b4 41. f5 b3 42. g6 hxg6 43. fxg6 fxg6 
+0-1
+
+[Event "DM 2025-Kort Påske 1. Gruppe 1"]
+[Site "Svendborg, DEN"]
+[Date "2025.04.20"]
+[Round "1"]
+[White "Skytte, Robert"]
+[Black "Rasmussen, Steen Hulthin"]
+[Result "1-0"]
+[WhiteElo "1909"]
+[BlackElo "2013"]
+[WhiteDsuNA "1042962"]
+[BlackDsuNA "1037119"]
+[WhiteDsuId "13509"]
+[BlackDsuId "3419"]
+[WhiteFideId "1471775"]
+[BlackFideId "1419307"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O 
+Ngf6 8. Nxf6+ Qxf6 9. Bg5 Bxf3 10. Qd2 Qxd4 11. gxf3 Bd6 12. Rae1 h6 13. 
+Rxe6+ Kf8 14. Re4 Bxh2+ 15. Kg2 Qd6 16. Be7+ 1-0
+
+[Event "DM 2025-Kort Påske 1. Gruppe 1"]
+[Site "Svendborg, DEN"]
+[Date "2025.04.20"]
+[Round "4"]
+[White "Rasmussen, Steen Hulthin"]
+[Black "Mihaila, Radu-Stefan"]
+[Result "0-1"]
+[WhiteElo "2013"]
+[BlackElo "1908"]
+[WhiteDsuNA "1037119"]
+[BlackDsuNA "1044200"]
+[WhiteDsuId "3419"]
+[BlackDsuId "13627"]
+[WhiteFideId "1419307"]
+[BlackFideId "2852638"]
+
+1. d4 Nf6 2. g3 d5 3. Nf3 e6 4. Bg2 Nbd7 5. O-O Bd6 6. b3 c6 7. Bb2 O-O 8.
+ Nbd2 Qe7 9. c4 e5 10. dxe5 Nxe5 11. Re1 Ne4 12. cxd5 Nxf2 13. Qc2 Nh3+ 
+14. Bxh3 Bxh3 15. Nxe5 Bxe5 16. dxc6 Bxb2 17. Qxb2 Qe3+ 18. Kh1 Qf2 19. 
+Rg1 Qxe2 20. cxb7 Rad8 21. Nc4 Qf3+ 22. Rg2 Rd1+ 23. Rxd1 Qxd1+ 24. Rg1 
+Qf3+ 25. Rg2 Qxb7 26. Kg1 Qxg2+ 27. Qxg2 Bxg2 28. Kxg2 Re8 29. Kf2 Re6 30.
+ a4 Kf8 31. Na3 a6 32. Nc4 Ke7 33. Kf3 Re1 34. Nd2 f5 35. h4 Kd6 36. b4 
+Ra1 37. Nc4+ Kc7 38. Nb2 Ra2 39. Nc4 Rxa4 40. Ne3 g6 41. h5 Kc6 42. hxg6 
+hxg6 43. Nc2 Kb5 44. Kf4 Rxb4+ 45. Nxb4 Kxb4 46. Kg5 a5 47. Kxg6 a4 48. g4
+fxg4 0-1
+
+[Event "DM 2025-Kort Påske 1. Gruppe 1"]
+[Site "Svendborg, DEN"]
+[Date "2025.04.20"]
+[Round "3"]
+[White "Mermer, Yunus"]
+[Black "Rasmussen, Steen Hulthin"]
+[Result "1-0"]
+[WhiteElo "1726"]
+[BlackElo "2013"]
+[WhiteDsuNA "1043895"]
+[BlackDsuNA "1037119"]
+[WhiteDsuId "9452"]
+[BlackDsuId "3419"]
+[WhiteFideId "6374603"]
+[BlackFideId "1419307"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nf6 4. Bg5 Nbd7 5. Nc3 c6 6. e3 Qa5 7. c5 b6 8. 
+cxb6 Nxb6 9. Bd3 Bd6 10. O-O h6 11. Bh4 Nbd7 12. a3 O-O 13. Qe2 c5 14. 
+dxc5 Qxc5 15. Rfc1 Qb6 16. Nb5 Ne5 17. Nxd6 Nxd3 18. Rxc8 Rfxc8 19. Nxc8 
+Rxc8 20. Qxd3 Qxb2 21. Bxf6 gxf6 22. Qb1 Qe2 23. Qd1 Qb2 24. Nd4 Rc3 25. 
+h3 Rxa3 26. Rb1 Qc3 27. Nb5 1-0
+
+[Event "DM 2025-Kort Påske 1. Gruppe 1"]
+[Site "Svendborg, DEN"]
+[Date "2025.04.20"]
+[Round "5"]
+[White "Bonnez, Finn"]
+[Black "Rasmussen, Steen Hulthin"]
+[Result "1-0"]
+[WhiteElo "1962"]
+[BlackElo "2013"]
+[WhiteDsuNA "1045354"]
+[BlackDsuNA "1037119"]
+[WhiteDsuId "565"]
+[BlackDsuId "3419"]
+[WhiteFideId "1403800"]
+[BlackFideId "1419307"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. e3 Be7 5. Nf3 O-O 6. b3 c5 7. Bb2 Nc6 8. 
+Be2 cxd4 9. exd4 dxc4 10. Bxc4 Qa5 11. O-O Rd8 12. Ne2 b5 13. Bd3 Nb4 14. 
+a4 Nxd3 15. Qxd3 b4 16. Rfe1 Ba6 17. Qe3 Rac8 18. Rac1 Nd5 19. Qd2 Bf6 20.
+ Ng3 Bb7 21. Ne4 Be7 22. Ne5 Nf6 23. Nxf6+ Bxf6 24. Rxc8 Rxc8 25. Nc4 Qd5 
+26. f3 Ba6 27. Qxb4 Bxc4 28. bxc4 Qxc4 29. Qd2 Qxa4 30. Ra1 Qd7 31. f4 Rb8
+32. Bc3 Rb3 33. Rd1 Qd5 34. Bb4 g6 35. Bc5 Qb7 36. Rc1 a6 37. Rc2 Qb5 38. 
+Qe2 Qxe2 39. Rxe2 Rd3 40. Re4 Rd2 41. Kf1 h5 42. h3 h4 43. Re2 Rd1+ 44. 
+Re1 Rxe1+ 45. Kxe1 Bd8 46. Ke2 f5 47. Bd6 Kf7 48. Kd3 Ke8 49. Be5 Kd7 50. 
+Bg7 Kc6 51. Kc4 Ba5 52. Bf6 Be1 53. Be7 a5 54. Bf6 a4 55. Be5 Bd2 56. Bf6 
+Bxf4 57. Bxh4 Bd6 58. Be1 Be7 59. Bc3 a3 60. Ba1 Bg5 61. Kb3 Bc1 62. Kc2 
+Be3 63. Kd3 f4 64. Bc3 Kd5 65. Ba1 Bc1 1-0
+
+[Event "DM 2025-Kort Påske 1. Gruppe 1"]
+[Site "Svendborg, DEN"]
+[Date "2025.04.20"]
+[Round "2"]
+[White "Rasmussen, Steen Hulthin"]
+[Black "Hansen, Simon"]
+[Result "1-0"]
+[WhiteElo "2013"]
+[BlackElo "1863"]
+[WhiteDsuNA "1037119"]
+[BlackDsuNA "1043876"]
+[WhiteDsuId "3419"]
+[BlackDsuId "14865"]
+[WhiteFideId "1419307"]
+[BlackFideId "1477820"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Bg5 c6 6. e3 Bf5 7. Bd3 Bxd3 
+8. Qxd3 Nbd7 9. Nge2 Bd6 10. Rb1 O-O 11. Bf4 Bxf4 12. Nxf4 Re8 13. O-O Qe7
+14. Rfe1 h6 15. f3 Qd6 16. Nfe2 c5 17. b3 a6 18. Rbd1 Rad8 19. dxc5 Nxc5 
+20. Qd2 Ne6 21. Nd4 Nxd4 22. Qxd4 Qe5 23. Qxe5 Rxe5 24. Kf2 Kf8 25. Rd3 
+Ke7 26. Red1 Ke6 27. h3 b5 28. f4 Rh5 29. Kf3 Rc8 30. Ne2 Ne4 31. Ng3 Nxg3
+32. Kxg3 Rc2 33. Kg4 g6 34. R1d2 Rxd2 35. Rxd2 Rf5 36. Rc2 Kd7 37. Rc5 d4 
+38. exd4 Rxc5 39. dxc5 b4 40. f5 Kc6 41. fxg6 fxg6 42. Kf4 Kxc5 43. Ke5 a5
+44. h4 h5 45. g3 Kc6 46. Kf6 Kd5 47. Kxg6 Kd4 48. Kxh5 Kc3 49. g4 Kb2 50. 
+g5 Kxa2 51. g6 a4 52. bxa4 b3 53. g7 1-0
+
+[Event "Hold"]
 [Site "Ishøj"]
 [Date "2025.03.29"]
 [Round "7"]
@@ -18,21 +236,6 @@ Rxe7 14. Qf1 Rhe8 15. Re1 Rxe1+ 16. Nxe1 Bf4 17. Nc2 Qe6 18. g3 Bxd2+
 [Event "Kalundborg Vinter 2025"]
 [Site "?"]
 [Date "2025.02.09"]
-[Round "5"]
-[White "Finn Bonnez"]
-[Black "Steen Hulthin Rasmussen"]
-[Result "1/2-1/2"]
-[WhiteRating "1979"]
-[BlackElo "2000"]
-[EventDate "2025.02.09"]
-
-1. d4 d6 2. g3 Nf6 3. Bg2 c6 4. e4 g6 5. Ne2 Bg7 6. O-O O-O 7. c4 Nbd7 8. 
-Nbc3 Rb8 9. a4 c5 10. b3 Qa5 11. Bb2 cxd4 12. Nxd4 Ne5 13. Nce2 Nc6 14. 
-Nb5 a6 15. Bc3 Qd8 16. Nbd4 Bg4 17. f3 Bd7 18. Rb1 Qc8 19. Qd2 1/2-1/2
-
-[Event "Kalundborg Vinter 2025"]
-[Site "?"]
-[Date "2025.02.09"]
 [Round "4"]
 [White "Steen Hulthin Rasmussen"]
 [Black "Robert Skytte"]
@@ -44,6 +247,21 @@ Nb5 a6 15. Bc3 Qd8 16. Nbd4 Bg4 17. f3 Bd7 18. Rb1 Qc8 19. Qd2 1/2-1/2
 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qa4 exd5 7. Nf3 
 Bc5 8. e3 Nf6 9. Be2 O-O 10. O-O Qb6 11. a3 d4 12. exd4 Nxd4 13. b4 Nxf3+ 
 14. Bxf3 Bd4 15. Bb2 Be6 1/2-1/2
+
+[Event "Kalundborg Vinter 2025"]
+[Site "?"]
+[Date "2025.02.09"]
+[Round "5"]
+[White "Finn Bonnez"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1/2-1/2"]
+[WhiteRating "1979"]
+[BlackElo "2000"]
+[EventDate "2025.02.09"]
+
+1. d4 d6 2. g3 Nf6 3. Bg2 c6 4. e4 g6 5. Ne2 Bg7 6. O-O O-O 7. c4 Nbd7 8. 
+Nbc3 Rb8 9. a4 c5 10. b3 Qa5 11. Bb2 cxd4 12. Nxd4 Ne5 13. Nce2 Nc6 14. 
+Nb5 a6 15. Bc3 Qd8 16. Nbd4 Bg4 17. f3 Bd7 18. Rb1 Qc8 19. Qd2 1/2-1/2
 
 [Event "Kalundborg Vinter 2025"]
 [Site "?"]
@@ -136,6 +354,24 @@ Rhe8 20. Rfd1 Be5 21. c4 b6 22. Kg2 h6 23. b3 Re6 24. g4 Rde8 25. Rd3 g5
 [Event "Kort Påske 1"]
 [Site "Svendborg"]
 [Date "2024.03.25"]
+[Round "4"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Svend Steenstrup"]
+[Result "1-0"]
+[WhiteRating "1915"]
+[BlackRating "1967"]
+[ECO "C01c"]
+[EventDate "2024.03.25"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Bb4+ 5. Bd2 Qe7+ 6. Be2 Nf6 7. Nf3 
+O-O 8. O-O dxc4 9. Bxc4 Bg4 10. Re1 Qd6 11. Qb3 a5 12. a3 Bxf3 13. axb4 
+Bd5 14. Bxd5 Nxd5 15. Rxa5 Rxa5 16. bxa5 Nc6 17. Nc3 Nxc3 18. Bxc3 Nxd4 
+19. Qxb7 Nc6 20. a6 Nd8 21. Qb5 Nc6 22. Ra1 Rd8 23. h3 Na7 24. Qg5 f6 25. 
+Qe3 Ra8 26. Bd4 Nc6 27. Qb3+ Kf8 28. Qb7 Rb8 29. Qxb8+ 1-0
+
+[Event "Kort Påske 1"]
+[Site "Svendborg"]
+[Date "2024.03.25"]
 [Round "5"]
 [White "Steen Hulthin Rasmussen"]
 [Black "Hans-Henrik Madsen"]
@@ -151,21 +387,24 @@ Na4 N6d7 15. Bf4 b5 16. Nc3 Nb6 17. a3 Bd6 1/2-1/2
 
 [Event "Kort Påske 1"]
 [Site "Svendborg"]
-[Date "2024.03.25"]
-[Round "4"]
-[White "Steen Hulthin Rasmussen"]
-[Black "Svend Steenstrup"]
-[Result "1-0"]
-[WhiteRating "1915"]
+[Date "2024.03.24"]
+[Round "2"]
+[White "Noah Paludan"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "0-1"]
+[WhiteRating "1855"]
 [BlackRating "1967"]
-[ECO "C01c"]
-[EventDate "2024.03.25"]
+[ECO "B07o"]
+[EventDate "2024.03.24"]
 
-1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Bb4+ 5. Bd2 Qe7+ 6. Be2 Nf6 7. Nf3 
-O-O 8. O-O dxc4 9. Bxc4 Bg4 10. Re1 Qd6 11. Qb3 a5 12. a3 Bxf3 13. axb4 
-Bd5 14. Bxd5 Nxd5 15. Rxa5 Rxa5 16. bxa5 Nc6 17. Nc3 Nxc3 18. Bxc3 Nxd4 
-19. Qxb7 Nc6 20. a6 Nd8 21. Qb5 Nc6 22. Ra1 Rd8 23. h3 Na7 24. Qg5 f6 25. 
-Qe3 Ra8 26. Bd4 Nc6 27. Qb3+ Kf8 28. Qb7 Rb8 29. Qxb8+ 1-0
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Nf3 Bg4 5. Be2 Nbd7 6. O-O Qc7 7. a4 e5 8.
+ Be3 Be7 9. dxe5 dxe5 10. Ng5 Bxe2 11. Qxe2 h6 12. Nf3 Qa5 13. Nd2 O-O 14.
+ Nb3 Qc7 15. Rfd1 Rfd8 16. f3 Nh7 17. Rd3 Nhf8 18. Rad1 Ne6 19. Qd2 Nb6 
+20. Qc1 Bb4 21. Na2 Be7 22. a5 Nc4 23. Bf2 Nxa5 24. Nxa5 Qxa5 25. Nc3 Bc5 
+26. Ne2 Qb6 27. Bxc5 Qxc5+ 28. Kh1 Qa5 29. Qe3 a6 30. h3 Rxd3 31. Rxd3 Rd8
+32. Rxd8+ Qxd8 33. Qc3 Qd1+ 34. Ng1 Nd4 35. Kh2 Qxg1+ 36. Kxg1 Ne2+ 37. 
+Kf2 Nxc3 38. bxc3 Kf8 39. c4 b6 40. Ke3 Ke7 41. Kd3 Kd6 42. h4 Kc5 43. Kc3
+a5 0-1
 
 [Event "Kort Påske 1"]
 [Site "Svendborg"]
@@ -190,27 +429,6 @@ Ra1 Rd2 26. Be3 Rb2 27. Rfb1 Rxb1+ 28. Rxb1 Rc8 29. Rd1 Rd8 30. Kf1 Be7
 Bg7 Bc5 50. Bf6 Bd6 51. Kd4 Bxf4 52. Be5 Bc1 53. Kc3 Ba3 54. Bf4 Bc5 55. 
 Be5 Bf2 56. Bd4 Bg3 57. Kd3 Bf4 58. Bb2 Bg5 59. Ba3 Bf6 60. b4 Be7 61. Kc3
 Bf6+ 62. Kb3 axb4 63. Bxb4 Bd4 64. Kc2 b5 65. Kd3 Bg1 66. Bf8 Bb6 1/2-1/2
-
-[Event "Kort Påske 1"]
-[Site "Svendborg"]
-[Date "2024.03.24"]
-[Round "2"]
-[White "Noah Paludan"]
-[Black "Steen Hulthin Rasmussen"]
-[Result "0-1"]
-[WhiteRating "1855"]
-[BlackRating "1967"]
-[ECO "B07o"]
-[EventDate "2024.03.24"]
-
-1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Nf3 Bg4 5. Be2 Nbd7 6. O-O Qc7 7. a4 e5 8.
- Be3 Be7 9. dxe5 dxe5 10. Ng5 Bxe2 11. Qxe2 h6 12. Nf3 Qa5 13. Nd2 O-O 14.
- Nb3 Qc7 15. Rfd1 Rfd8 16. f3 Nh7 17. Rd3 Nhf8 18. Rad1 Ne6 19. Qd2 Nb6 
-20. Qc1 Bb4 21. Na2 Be7 22. a5 Nc4 23. Bf2 Nxa5 24. Nxa5 Qxa5 25. Nc3 Bc5 
-26. Ne2 Qb6 27. Bxc5 Qxc5+ 28. Kh1 Qa5 29. Qe3 a6 30. h3 Rxd3 31. Rxd3 Rd8
-32. Rxd8+ Qxd8 33. Qc3 Qd1+ 34. Ng1 Nd4 35. Kh2 Qxg1+ 36. Kxg1 Ne2+ 37. 
-Kf2 Nxc3 38. bxc3 Kf8 39. c4 b6 40. Ke3 Ke7 41. Kd3 Kd6 42. h4 Kc5 43. Kc3
-a5 0-1
 
 [Event "Kort Påske 1"]
 [Site "Svendborg"]
@@ -425,51 +643,25 @@ Bd6 15. Qd2 1/2-1/2
 [Event "Brønshøj Efterårsturnering 2020 genoptages 3. juni-A"]
 [Site "Brønshøj, DEN"]
 [Date "2020.10.22"]
-[Round "3"]
-[White "Rasmussen, Steen Hulthin"]
-[Black "Tandrup, Michael"]
-[Result "1/2-1/2"]
-[WhiteElo "2096"]
-[BlackElo "1929"]
-[WhiteDsuNA "976539"]
-[BlackDsuNA "972626"]
-[WhiteDsuId "3419"]
-[BlackDsuId "3194"]
-[WhiteFideId "1419307"]
-[BlackFideId "1408356"]
-
-1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bd6 5. Bg3 c5 6. dxc5 Bxc5 7. Nb5 Na6 
-8. Nf3 O-O 9. Be2 Ne4 10. O-O Nxg3 11. hxg3 Bd7 12. c3 Bxb5 13. Bxb5 Qb6 
-14. Qe2 Nc7 15. Bd3 Be7 16. Ne5 Qd6 17. f4 f5 18. Kf2 Bf6 19. Nf3 e5 20. 
-Bxf5 exf4 21. gxf4 g6 22. Bc2 Rae8 23. Qd3 Qb6 24. Bb3 Kg7 25. Nd4 Re4 26.
- Rae1 Bxd4 27. cxd4 Qd6 28. g3 Qe6 29. Bd1 Qf5 30. Qe2 Re7 31. Bc2 Qf6 32.
- Kg2 Rfe8 33. Qf3 Ne6 34. Rd1 Nc7 35. Rfe1 Qc6 36. Qf2 Nb5 37. Ba4 Qb6 38.
- Bxb5 Qxb5 39. Rc1 b6 40. Rc3 Qa6 41. a3 Rc8 42. Rec1 Rxc3 43. Rxc3 Qb7 
-44. Qc2 Qd7 45. Kf3 Qh3 46. Qg2 Qh5+ 47. g4 Qh4 48. Rc1 Qf6 49. Qc2 
-1/2-1/2
-
-[Event "Brønshøj Efterårsturnering 2020 genoptages 3. juni-A"]
-[Site "Brønshøj, DEN"]
-[Date "2020.10.22"]
-[Round "5"]
-[White "Bauner, Jan"]
+[Round "2"]
+[White "Olsen, Michael R. W."]
 [Black "Rasmussen, Steen Hulthin"]
-[Result "1/2-1/2"]
-[WhiteElo "1975"]
+[Result "1-0"]
+[WhiteElo "2107"]
 [BlackElo "2096"]
-[WhiteDsuNA "972664"]
+[WhiteDsuNA "972618"]
 [BlackDsuNA "976539"]
-[WhiteDsuId "1121"]
+[WhiteDsuId "7956"]
 [BlackDsuId "3419"]
-[WhiteFideId "1415832"]
+[WhiteFideId "1440969"]
 [BlackFideId "1419307"]
 
-1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. 
-Bb5+ Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. Nf3 O-O 12. Bxd7 Bxd7 13. O-O Qc7 
-14. Re1 Rfe8 15. d6 Qc6 16. Nd5 Bxe5 17. Rxe5 Rxe5 18. Nxe5 Qxd6 19. Nc4 
-Qf8 20. Nf4 Nf6 21. b3 Bg4 22. Qf1 b5 23. Ne5 Qd6 24. Bb2 Rd8 25. Nxg4 
-Nxg4 26. Re1 c4 27. bxc4 Qc5+ 28. Kh1 Nf2+ 29. Kg1 Ng4+ 30. Kh1 Nf2+ 31. 
-Kg1 1/2-1/2
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 
+h6 8. Bd2 O-O 9. O-O Re8 10. Re1 d6 11. a3 Bc5 12. Be3 Bb6 13. h3 Rb8 14. 
+Rb1 Bxe3 15. Rxe3 d5 16. Re1 d4 17. Na4 Re5 18. b4 a5 19. Qd2 Nh5 20. Rbd1
+Nf4 21. Bf1 Ne6 22. c3 c5 23. Nxc5 Nxc5 24. bxc5 Rxc5 25. cxd4 Rc6 26. d5 
+Rcb6 27. Qd4 Qd6 28. e5 Qxa3 29. d6 c5 30. Qe4 Rb4 31. Qc6 Be6 32. Qxc5 
+Rc4 1-0
 
 [Event "Brønshøj Efterårsturnering 2020 genoptages 3. juni-A"]
 [Site "Brønshøj, DEN"]
@@ -497,25 +689,51 @@ Kf8 32. c6 Ra6 33. c7 Rc6+ 34. Kd2 1-0
 [Event "Brønshøj Efterårsturnering 2020 genoptages 3. juni-A"]
 [Site "Brønshøj, DEN"]
 [Date "2020.10.22"]
-[Round "2"]
-[White "Olsen, Michael R. W."]
+[Round "5"]
+[White "Bauner, Jan"]
 [Black "Rasmussen, Steen Hulthin"]
-[Result "1-0"]
-[WhiteElo "2107"]
+[Result "1/2-1/2"]
+[WhiteElo "1975"]
 [BlackElo "2096"]
-[WhiteDsuNA "972618"]
+[WhiteDsuNA "972664"]
 [BlackDsuNA "976539"]
-[WhiteDsuId "7956"]
+[WhiteDsuId "1121"]
 [BlackDsuId "3419"]
-[WhiteFideId "1440969"]
+[WhiteFideId "1415832"]
 [BlackFideId "1419307"]
 
-1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 
-h6 8. Bd2 O-O 9. O-O Re8 10. Re1 d6 11. a3 Bc5 12. Be3 Bb6 13. h3 Rb8 14. 
-Rb1 Bxe3 15. Rxe3 d5 16. Re1 d4 17. Na4 Re5 18. b4 a5 19. Qd2 Nh5 20. Rbd1
-Nf4 21. Bf1 Ne6 22. c3 c5 23. Nxc5 Nxc5 24. bxc5 Rxc5 25. cxd4 Rc6 26. d5 
-Rcb6 27. Qd4 Qd6 28. e5 Qxa3 29. d6 c5 30. Qe4 Rb4 31. Qc6 Be6 32. Qxc5 
-Rc4 1-0
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. 
+Bb5+ Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. Nf3 O-O 12. Bxd7 Bxd7 13. O-O Qc7 
+14. Re1 Rfe8 15. d6 Qc6 16. Nd5 Bxe5 17. Rxe5 Rxe5 18. Nxe5 Qxd6 19. Nc4 
+Qf8 20. Nf4 Nf6 21. b3 Bg4 22. Qf1 b5 23. Ne5 Qd6 24. Bb2 Rd8 25. Nxg4 
+Nxg4 26. Re1 c4 27. bxc4 Qc5+ 28. Kh1 Nf2+ 29. Kg1 Ng4+ 30. Kh1 Nf2+ 31. 
+Kg1 1/2-1/2
+
+[Event "Brønshøj Efterårsturnering 2020 genoptages 3. juni-A"]
+[Site "Brønshøj, DEN"]
+[Date "2020.10.22"]
+[Round "3"]
+[White "Rasmussen, Steen Hulthin"]
+[Black "Tandrup, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2096"]
+[BlackElo "1929"]
+[WhiteDsuNA "976539"]
+[BlackDsuNA "972626"]
+[WhiteDsuId "3419"]
+[BlackDsuId "3194"]
+[WhiteFideId "1419307"]
+[BlackFideId "1408356"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bd6 5. Bg3 c5 6. dxc5 Bxc5 7. Nb5 Na6 
+8. Nf3 O-O 9. Be2 Ne4 10. O-O Nxg3 11. hxg3 Bd7 12. c3 Bxb5 13. Bxb5 Qb6 
+14. Qe2 Nc7 15. Bd3 Be7 16. Ne5 Qd6 17. f4 f5 18. Kf2 Bf6 19. Nf3 e5 20. 
+Bxf5 exf4 21. gxf4 g6 22. Bc2 Rae8 23. Qd3 Qb6 24. Bb3 Kg7 25. Nd4 Re4 26.
+ Rae1 Bxd4 27. cxd4 Qd6 28. g3 Qe6 29. Bd1 Qf5 30. Qe2 Re7 31. Bc2 Qf6 32.
+ Kg2 Rfe8 33. Qf3 Ne6 34. Rd1 Nc7 35. Rfe1 Qc6 36. Qf2 Nb5 37. Ba4 Qb6 38.
+ Bxb5 Qxb5 39. Rc1 b6 40. Rc3 Qa6 41. a3 Rc8 42. Rec1 Rxc3 43. Rxc3 Qb7 
+44. Qc2 Qd7 45. Kf3 Qh3 46. Qg2 Qh5+ 47. g4 Qh4 48. Rc1 Qf6 49. Qc2 
+1/2-1/2
 
 [Event "Bronshoj Lang Weekend 2017"]
 [Site "Bronshoj"]
@@ -618,6 +836,29 @@ Rb1+ Ka2 79. Ra1+ Kb3 80. Ra3+ Kc4 81. Rc3+ Rxc3 0-1
 [Event "Bronshoj Lang Weekend 2017"]
 [Site "Bronshoj"]
 [Date "2017.02.11"]
+[Round "3"]
+[White "Andersen, Soren Mikkel"]
+[Black "Rasmussen, Steen Hulthin"]
+[Result "1/2-1/2"]
+[WhiteElo "2088"]
+[BlackElo "1880"]
+[EventDate "2017.02.??"]
+[PlyCount "82"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. cxd5 exd5 
+8. Bd3 Bd6 9. O-O O-O 10. a3 Re8 11. Qc2 h6 12. Bh4 Qc7 13. Rac1 a6 14. 
+Rfe1 g5 15. Bg3 Bxg3 16. hxg3 Nf8 17. Ne5 Be6 18. b4 Qd6 19. Qb2 Ng4 20. 
+Na4 Nd7 21. Nxd7 Bxd7 22. Nb6 Rad8 23. Nxd7 Qxd7 24. Qc2 Qd6 25. Rb1 h5 
+26. Qd1 Qf6 27. Qf3 Kg7 28. a4 Rd6 29. Qf5 Qxf5 30. Bxf5 Nxf2 31. b5 axb5 
+32. axb5 Rf6 33. Rf1 Ne4 34. Bxe4 Rxe4 35. Rxf6 Kxf6 36. Kf2 Kf5 37. Ra1 
+Re7 38. b6 f6 39. Ra8 Kg6 40. Rc8 Kf7 41. Rh8 Kg6 1/2-1/2
+
+[Event "Bronshoj Lang Weekend 2017"]
+[Site "Bronshoj"]
+[Date "2017.02.11"]
 [Round "2"]
 [White "Rasmussen, Steen Hulthin"]
 [Black "Koch Mueller, Oscar"]
@@ -641,29 +882,6 @@ h4 Ke6 38. Ke3 g6 39. Nc3 Bd3 40. Kf4 Kf6 41. a4 a6 42. a5 h6 43. d5 cxd5
 Bxf3 50. g5 hxg5 51. hxg5 Kd5 52. Kc3 Be2 53. Nc7+ Kd6 54. Ne8+ Kd7 55. 
 Nf6+ Ke6 56. Kd4 Kf5 57. Ne4 Ke6 58. a6 Bc4 59. Nc3 Bf1 60. a7 Bg2 61. Ne4
 1-0
-
-[Event "Bronshoj Lang Weekend 2017"]
-[Site "Bronshoj"]
-[Date "2017.02.11"]
-[Round "3"]
-[White "Andersen, Soren Mikkel"]
-[Black "Rasmussen, Steen Hulthin"]
-[Result "1/2-1/2"]
-[WhiteElo "2088"]
-[BlackElo "1880"]
-[EventDate "2017.02.??"]
-[PlyCount "82"]
-[EventType "swiss"]
-[EventRounds "7"]
-[EventCountry "DEN"]
-
-1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. cxd5 exd5 
-8. Bd3 Bd6 9. O-O O-O 10. a3 Re8 11. Qc2 h6 12. Bh4 Qc7 13. Rac1 a6 14. 
-Rfe1 g5 15. Bg3 Bxg3 16. hxg3 Nf8 17. Ne5 Be6 18. b4 Qd6 19. Qb2 Ng4 20. 
-Na4 Nd7 21. Nxd7 Bxd7 22. Nb6 Rad8 23. Nxd7 Qxd7 24. Qc2 Qd6 25. Rb1 h5 
-26. Qd1 Qf6 27. Qf3 Kg7 28. a4 Rd6 29. Qf5 Qxf5 30. Bxf5 Nxf2 31. b5 axb5 
-32. axb5 Rf6 33. Rf1 Ne4 34. Bxe4 Rxe4 35. Rxf6 Kxf6 36. Kf2 Kf5 37. Ra1 
-Re7 38. b6 f6 39. Ra8 Kg6 40. Rc8 Kf7 41. Rh8 Kg6 1/2-1/2
 
 [Event "Bronshoj Lang Weekend 2017"]
 [Site "Bronshoj"]
@@ -3458,20 +3676,6 @@ Nd6 Na6 21. Nxc8 Rxc8 22. Rxe6 Nac7 23. Re4 Rg7 24. Rae1 Rd8 25. R1e2 a6
 [Event "DM 1992 B7 grp 1"]
 [Site "Århus"]
 [Date "1992.04.18"]
-[Round "4"]
-[White "Steen Hulthin Rasmussen"]
-[Black "Lars Sødergård"]
-[Result "1/2-1/2"]
-[WhiteRating "1771"]
-[BlackRating "1781"]
-[ECO "A01"]
-
-1. b3 Nf6 2. Bb2 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. O-O c6 7. c4 Bg4 8. 
-d4 Nbd7 9. Nbd2 Qc7 10. Qc2 1/2-1/2
-
-[Event "DM 1992 B7 grp 1"]
-[Site "Århus"]
-[Date "1992.04.18"]
 [Round "5"]
 [White "Carsten Brølling"]
 [Black "Steen Hulthin Rasmussen"]
@@ -3485,6 +3689,40 @@ d4 Nbd7 9. Nbd2 Qc7 10. Qc2 1/2-1/2
  e4 Bf4 15. Nh3 Be3+ 16. Kh1 Bxd4 17. exd5 Nxd5 18. Nxd5 Qxd5 19. Rae1+ 
 Kf8 20. Nf4 Qg5 21. Re4 Bb6 22. Rfe1 Bg6 23. Nxg6+ hxg6 24. Qe2 Kg8 25. 
 Rg4 Qh5 26. h3 Qd5 27. Rxg6 Rh4 28. Rg4 Rxg4 29. Qe8+ 1-0
+
+[Event "DM 1992 B7 grp 1"]
+[Site "Århus"]
+[Date "1992.04.18"]
+[Round "4"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Lars Sødergård"]
+[Result "1/2-1/2"]
+[WhiteRating "1771"]
+[BlackRating "1781"]
+[ECO "A01"]
+
+1. b3 Nf6 2. Bb2 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. O-O c6 7. c4 Bg4 8. 
+d4 Nbd7 9. Nbd2 Qc7 10. Qc2 1/2-1/2
+
+[Event "DM 1992 B7 grp 1"]
+[Site "Århus"]
+[Date "1992.04.16"]
+[Round "3"]
+[White "Mikkel Strange"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1/2-1/2"]
+[WhiteRating "1851"]
+[BlackRating "1771"]
+[ECO "C11h"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Ne2 b6 8. 
+c3 Ba6 9. Be3 Be7 10. h4 h5 11. Ng5 cxd4 12. Nxd4 Nxd4 13. Bxa6 Nf5 14. 
+Bf2 Bc5 15. Be2 g6 16. g4 hxg4 17. Bxg4 Bxf2+ 18. Kxf2 Nxh4 19. Qa4 Qe7 
+20. Kg3 Qc5 21. Raf1 Qe3+ 22. Nf3 g5 23. fxg5 Ng6 24. Rxh8+ Nxh8 25. Bxe6 
+fxe6 26. Qc6 Ke7 27. Qxa8 Ng6 28. Re1 Qf4+ 29. Kg2 Qg4+ 30. Kf2 Nf4 31. 
+Rf1 Nd3+ 32. Ke3 Qe4+ 33. Kd2 Nxb2 34. Kc1 Nd3+ 35. Kd2 Nf4 36. Kc1 Qd3 
+37. Nd2 Qxc3+ 38. Kd1 Qa1+ 39. Kc2 Qxa2+ 40. Kd1 Qa1+ 41. Kc2 Qa4+ 42. Kb1
+Qb4+ 43. Kc2 Qa4+ 1/2-1/2
 
 [Event "DM 1992 B7 grp 1"]
 [Site "Århus"]
@@ -3522,26 +3760,6 @@ Rce8 21. Kh1 Qd8 22. g4 Re7 23. Re2 Qc7 24. h4 h5 25. Rg2 Kh7 26. gxh5
 Nxh5 27. e5 Nxf4 28. Bxf4 dxe5 29. h5 exf4 30. hxg6+ Kh6 31. g7 Qe5 32. 
 gxh8=Q+ Rxh8 33. Qh3+ Qh5 34. Qxh5+ Kxh5 35. Rh2+ Kg5 36. Rxh8 Re3 37. 
 Ne4+ Kf5 38. Nxc5+ 1-0
-
-[Event "DM 1992 B7 grp 1"]
-[Site "Århus"]
-[Date "1992.04.16"]
-[Round "3"]
-[White "Mikkel Strange"]
-[Black "Steen Hulthin Rasmussen"]
-[Result "1/2-1/2"]
-[WhiteRating "1851"]
-[BlackRating "1771"]
-[ECO "C11h"]
-
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Ne2 b6 8. 
-c3 Ba6 9. Be3 Be7 10. h4 h5 11. Ng5 cxd4 12. Nxd4 Nxd4 13. Bxa6 Nf5 14. 
-Bf2 Bc5 15. Be2 g6 16. g4 hxg4 17. Bxg4 Bxf2+ 18. Kxf2 Nxh4 19. Qa4 Qe7 
-20. Kg3 Qc5 21. Raf1 Qe3+ 22. Nf3 g5 23. fxg5 Ng6 24. Rxh8+ Nxh8 25. Bxe6 
-fxe6 26. Qc6 Ke7 27. Qxa8 Ng6 28. Re1 Qf4+ 29. Kg2 Qg4+ 30. Kf2 Nf4 31. 
-Rf1 Nd3+ 32. Ke3 Qe4+ 33. Kd2 Nxb2 34. Kc1 Nd3+ 35. Kd2 Nf4 36. Kc1 Qd3 
-37. Nd2 Qxc3+ 38. Kd1 Qa1+ 39. Kc2 Qxa2+ 40. Kd1 Qa1+ 41. Kc2 Qa4+ 42. Kb1
-Qb4+ 43. Kc2 Qa4+ 1/2-1/2
 
 [Event "Tjele klub"]
 [Site "?"]
@@ -4272,26 +4490,6 @@ Bxc4 Rxc4 15. Bxg7 Kxg7 16. h5 b5 17. hxg6 fxg6 18. Qh6+ Kg8 19. O-O-O e6
 [Event "Tornved EMT 1990"]
 [Site "Tornved"]
 [Date "1990.11.18"]
-[Round "5"]
-[White "Steen Hulthin Rasmussen"]
-[Black "Claus Jeppesen"]
-[Result "1-0"]
-[WhiteRating "1602"]
-[BlackRating "1591"]
-[ECO "D88"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 
-O-O 8. Ne2 c5 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Qc7 12. Rc1 Rd8 13. Qc2 Qa5
-14. Rfd1 Bd7 15. Qb3 e6 16. d5 Ne5 17. dxe6 Ba4 18. exf7+ Nxf7 19. Bxf7+ 
-Kh8 20. Rxd8+ Rxd8 21. Qxb7 Bb5 22. Nf4 Bb2 23. Rb1 a6 24. h4 Rd7 25. Qb8+
-Rd8 26. Qb6 Bc3 27. Qxa5 Bxa5 28. Bb3 Bc3 29. Rd1 Re8 30. Bd4+ Bxd4 31. 
-Rxd4 a5 32. Ba4 Bxa4 33. Rxa4 Re5 34. f3 g5 35. hxg5 Rxg5 36. Nd3 h5 37. 
-e5 Kg8 38. Rxa5 Kf8 39. Ra7 h4 40. Kf2 Rg6 41. Nf4 Rb6 42. e6 Rb2+ 43. Kg1
-Rb4 44. e7+ Ke8 45. Nd5 Rb8 46. Nf6+ 1-0
-
-[Event "Tornved EMT 1990"]
-[Site "Tornved"]
-[Date "1990.11.18"]
 [Round "4"]
 [White "Amdi Hillebrand"]
 [Black "Steen Hulthin Rasmussen"]
@@ -4308,20 +4506,23 @@ f5 1/2-1/2
 
 [Event "Tornved EMT 1990"]
 [Site "Tornved"]
-[Date "1990.11.17"]
-[Round "3"]
+[Date "1990.11.18"]
+[Round "5"]
 [White "Steen Hulthin Rasmussen"]
-[Black "Dennis Døngart"]
-[Result "1/2-1/2"]
+[Black "Claus Jeppesen"]
+[Result "1-0"]
 [WhiteRating "1602"]
-[BlackRating "1570"]
-[ECO "D41n"]
+[BlackRating "1591"]
+[ECO "D88"]
 
-1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 
-cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Qe7 12. O-O b6 13. d5 
-exd5 14. Bxd5 Bb7 15. Bxb7 Qxb7 16. e5 Nd7 17. Rad1 Nc5 18. Qc2 h6 19. Nd2
-Rac8 20. f4 Qe7 21. Ne4 Nxe4 22. Qxe4 Qc5+ 23. Kh1 Rfd8 24. Rxd8+ Rxd8 25.
- Qe2 Rc8 26. h3 Qc4 27. Rf2 Qxe2 28. Rxe2 Kf8 29. Kg1 Ke7 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 
+O-O 8. Ne2 c5 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Qc7 12. Rc1 Rd8 13. Qc2 Qa5
+14. Rfd1 Bd7 15. Qb3 e6 16. d5 Ne5 17. dxe6 Ba4 18. exf7+ Nxf7 19. Bxf7+ 
+Kh8 20. Rxd8+ Rxd8 21. Qxb7 Bb5 22. Nf4 Bb2 23. Rb1 a6 24. h4 Rd7 25. Qb8+
+Rd8 26. Qb6 Bc3 27. Qxa5 Bxa5 28. Bb3 Bc3 29. Rd1 Re8 30. Bd4+ Bxd4 31. 
+Rxd4 a5 32. Ba4 Bxa4 33. Rxa4 Re5 34. f3 g5 35. hxg5 Rxg5 36. Nd3 h5 37. 
+e5 Kg8 38. Rxa5 Kf8 39. Ra7 h4 40. Kf2 Rg6 41. Nf4 Rb6 42. e6 Rb2+ 43. Kg1
+Rb4 44. e7+ Ke8 45. Nd5 Rb8 46. Nf6+ 1-0
 
 [Event "Tornved EMT 1990"]
 [Site "Tornved"]
@@ -4342,6 +4543,23 @@ Rac1 Nf5 15. b4 Nxh4 16. Nxh4 Qxe5 17. Nf3 Qb8 18. Rfe1 Bd6 19. Ne4 O-O
 32. Rhh3 g4 33. Nxg4 Nxg4 34. Rf4 Ne5 35. f3 Ng6 36. Re4 Rd5 37. f4 Rfd8 
 38. Rd3 Ne7 39. g4 Ng8 40. g5 Ne7 41. gxh6 Nf5 42. Re5 Rxe5 43. fxe5 Rxd4 
 44. Rf3 Rd5 45. Kg2 Nh4+ 0-1
+
+[Event "Tornved EMT 1990"]
+[Site "Tornved"]
+[Date "1990.11.17"]
+[Round "3"]
+[White "Steen Hulthin Rasmussen"]
+[Black "Dennis Døngart"]
+[Result "1/2-1/2"]
+[WhiteRating "1602"]
+[BlackRating "1570"]
+[ECO "D41n"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 
+cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Qe7 12. O-O b6 13. d5 
+exd5 14. Bxd5 Bb7 15. Bxb7 Qxb7 16. e5 Nd7 17. Rad1 Nc5 18. Qc2 h6 19. Nd2
+Rac8 20. f4 Qe7 21. Ne4 Nxe4 22. Qxe4 Qc5+ 23. Kh1 Rfd8 24. Rxd8+ Rxd8 25.
+ Qe2 Rc8 26. h3 Qc4 27. Rf2 Qxe2 28. Rxe2 Kf8 29. Kg1 Ke7 1/2-1/2
 
 [Event "Tornved EMT 1990"]
 [Site "Tornved"]
@@ -4763,6 +4981,7 @@ gxf4 Kxf4 68. Ba4 1/2-1/2
 [Result "0-1"]
 [WhiteRating "1407"]
 [BlackRating "1568"]
+[ECO "C01n"]
 
 1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Be2 Bf5 6. Nbd2 Nf6 7. h3 c6 
 8. c3 Nbd7 9. Nf1 Qc7 10. Nh4 Be4 11. Bd3 O-O 12. Be3 Rae8 13. Bxe4 Nxe4 
@@ -4780,7 +4999,6 @@ Kf2 Rfe8 26. Re1 Rxe1 27. Rxe1 Rxe1 28. Nxe1 g5 29. Kf3 Kf7 30. Kg4 Kg6
 [Result "0-1"]
 [WhiteRating "1407"]
 [BlackRating "1568"]
-[ECO "C01n"]
 
 1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Be2 Bf5 6. Nbd2 Nf6 7. h3 c6 
 8. c3 Nbd7 9. Nf1 Qc7 10. Nh4 Be4 11. Bd3 O-O 12. Be3 Rae8 13. Bxe4 Nxe4 
@@ -5539,6 +5757,24 @@ Nxe6 Kf7 32. Nc5 g5 33. e6+ Ke7 34. Rfd1 Bxc5 35. Rxc5 Kxe6 36. f4 Kf6 37.
 [Site "Aalborg"]
 [Date "1989.03.25"]
 [Round "4"]
+[White "Lars Rugholm, Hjørring"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1/2-1/2"]
+[WhiteRating "1325"]
+[BlackRating "1341"]
+[ECO "C01s"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 Bd6 6. Bg5 c6 7. Qd2 Bf5 
+8. Bd3 Bxd3 9. Qxd3 O-O 10. O-O-O Nbd7 11. h4 Re8 12. Rde1 Qc7 13. Bxf6 
+Nxf6 14. Rxe8+ Rxe8 15. Re1 Rxe1+ 16. Nxe1 Bb4 17. a3 Bxc3 18. Qxc3 Qf4+ 
+19. Qe3 Qxe3+ 20. fxe3 Ne4 21. Nd3 f6 22. Nc5 Nxc5 23. dxc5 Kf7 24. Kd2 
+Ke6 25. Ke2 Kf5 26. Kf3 h5 27. b4 g5 28. g3 g4+ 29. Ke2 Ke4 30. c3 f5 
+1/2-1/2
+
+[Event "DM 1989 B7 grp 6"]
+[Site "Aalborg"]
+[Date "1989.03.25"]
+[Round "4"]
 [White "Morten Buhl"]
 [Black "Steen Hulthin Rasmussen"]
 [Result "0-1"]
@@ -5556,24 +5792,6 @@ Qxe8 32. Qxd3 Qd7 33. Qc4 Qd5 34. Qb4 c5 35. Qa4 Qd3 36. Bc2 Qd2 37. g3 b6
 44. Kg2 Qd5+ 45. Kh2 Qd8 46. h4 Qc8 47. Bf5 Qb7 48. Bg6 b5 49. Qd6 Qc8 50.
  Qe7 a6 51. Kg2 Qc6+ 52. Kg1 Qc8 53. Kg2 c4 54. Qd6 c3 55. Qd1 Qc6+ 56. 
 Kg1 Qc7 57. Kg2 a5 58. Qb3 Qc6+ 59. Kg1 Ng4 60. Qd1 Qxg6 0-1
-
-[Event "DM 1989 B7 grp 6"]
-[Site "Aalborg"]
-[Date "1989.03.25"]
-[Round "4"]
-[White "Lars Rugholm, Hjørring"]
-[Black "Steen Hulthin Rasmussen"]
-[Result "1/2-1/2"]
-[WhiteRating "1325"]
-[BlackRating "1341"]
-[ECO "C01s"]
-
-1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 Bd6 6. Bg5 c6 7. Qd2 Bf5 
-8. Bd3 Bxd3 9. Qxd3 O-O 10. O-O-O Nbd7 11. h4 Re8 12. Rde1 Qc7 13. Bxf6 
-Nxf6 14. Rxe8+ Rxe8 15. Re1 Rxe1+ 16. Nxe1 Bb4 17. a3 Bxc3 18. Qxc3 Qf4+ 
-19. Qe3 Qxe3+ 20. fxe3 Ne4 21. Nd3 f6 22. Nc5 Nxc5 23. dxc5 Kf7 24. Kd2 
-Ke6 25. Ke2 Kf5 26. Kf3 h5 27. b4 g5 28. g3 g4+ 29. Ke2 Ke4 30. c3 f5 
-1/2-1/2
 
 [Event "DM 1989 B7 grp 6"]
 [Site "Aalborg"]
@@ -5919,25 +6137,6 @@ Qxd5+ Kh8 21. h5 Rc1+ 22. Rxc1 Bxd5 23. Nxd5 Qf7 24. Nf4 Kg8 25. Rc7 Qa2
 [Event "DM 1988 grp. B14"]
 [Site "Odense"]
 [Date "1988.04.02"]
-[Round "5"]
-[White "Carsten Hansen"]
-[Black "Steen Hulthin Rasmussen"]
-[Result "1-0"]
-[WhiteRating "1024"]
-[BlackRating "1100"]
-[ECO "C01r"]
-
-1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nc6 5. Bb5 Bd7 6. Nf3 Nf6 7. O-O Be7
-8. Re1 O-O 9. Bg5 h6 10. Bxf6 Bxf6 11. Nxd5 a6 12. Bxc6 Bxc6 13. Nxf6+ 
-Qxf6 14. Ne5 Rad8 15. Nxc6 bxc6 16. c3 c5 17. Re4 cxd4 18. Rxd4 Rxd4 19. 
-Qxd4 Qxd4 20. cxd4 Rd8 21. Rd1 Rd5 22. Kf1 c5 23. Ke2 cxd4 24. Kd3 Rd8 25.
- Rc1 Rb8 26. b3 f6 27. Rc4 Kf7 28. h4 g5 29. hxg5 hxg5 30. Rxd4 Ke6 31. 
-Ra4 Rb6 32. g4 Kd6 33. f4 gxf4 34. Rxf4 Ke6 35. Rf5 Rb5 36. Rxb5 axb5 37. 
-Kd4 Kd6 38. a3 Kc6 39. a4 1-0
-
-[Event "DM 1988 grp. B14"]
-[Site "Odense"]
-[Date "1988.04.02"]
 [Round "4"]
 [White "Steen Hulthin Rasmussen"]
 [Black "Helle Knudsen"]
@@ -5953,6 +6152,25 @@ Nb6 8. Be2 Be6 9. c3 Nd5 10. Bg3 Bh6 11. O-O Bf4 12. Bxf4 Nxf4 13. g3 Nh3+
 fxe6 26. Qxh7 Rgf8+ 27. Kg2 Qd2 28. Qe4 Rd4 29. Qxe6+ Rd7 30. Qe3 Rd3 31. 
 Qxc5+ Kd8 32. Qxf8+ Kc7 33. Rad1 Qe2 34. Rxd3 Qxd3 35. Qf7+ Kc6 36. Qd5+ 
 1-0
+
+[Event "DM 1988 grp. B14"]
+[Site "Odense"]
+[Date "1988.04.02"]
+[Round "5"]
+[White "Carsten Hansen"]
+[Black "Steen Hulthin Rasmussen"]
+[Result "1-0"]
+[WhiteRating "1024"]
+[BlackRating "1100"]
+[ECO "C01r"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nc6 5. Bb5 Bd7 6. Nf3 Nf6 7. O-O Be7
+8. Re1 O-O 9. Bg5 h6 10. Bxf6 Bxf6 11. Nxd5 a6 12. Bxc6 Bxc6 13. Nxf6+ 
+Qxf6 14. Ne5 Rad8 15. Nxc6 bxc6 16. c3 c5 17. Re4 cxd4 18. Rxd4 Rxd4 19. 
+Qxd4 Qxd4 20. cxd4 Rd8 21. Rd1 Rd5 22. Kf1 c5 23. Ke2 cxd4 24. Kd3 Rd8 25.
+ Rc1 Rb8 26. b3 f6 27. Rc4 Kf7 28. h4 g5 29. hxg5 hxg5 30. Rxd4 Ke6 31. 
+Ra4 Rb6 32. g4 Kd6 33. f4 gxf4 34. Rxf4 Ke6 35. Rf5 Rb5 36. Rxb5 axb5 37. 
+Kd4 Kd6 38. a3 Kc6 39. a4 1-0
 
 [Event "DM 1988 grp. B14"]
 [Site "Odense"]
